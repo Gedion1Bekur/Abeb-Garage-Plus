@@ -1,0 +1,28 @@
+first and formost i added some flag that allow me to learn first we only need to know what to collcate , for data base we need to know or focus DB design , we need to ask out self what to do what we can think of we have Gernal rule thumb rule or best pratice 
+
+#!always we need to what we are we addding meaing how it gonna consume my CPU memory
+1. normalize the tables that allow  you to use for future 
+meaing we need to have or have nice or great table b/c it will be nice to fetch and conncet them with r/shinp
+2.Avoid redunndacy 
+3.proived unique identifier 
+4.Link realted table togther 
+5.Try to keep the feild names consistent across tables 
+6.Try to be describptive 
+7.Carefully chosse the data type of each feild 
+
+#best to set  max 5 0r 4 feild in table as columns 
+
+data type is design decsion 
+we need to brain storm when we want to index the dataa  best to thnink to make it efficncet 
+
+
+
+#tables 1 Employeee tables 
+#emplyee info 
+#Employeee role 
+#emplyee password pass need be hashed 
+
+
+
+#company role meaning this will be there for all subsibers in the company so this is what we added here how ever this might not best pratice but htis where we added 
+
